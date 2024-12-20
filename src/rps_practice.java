@@ -64,4 +64,3 @@ public class rps_practice {
         System.out.println("THANKS FOR PLAYING!");
     }
 }
-;
