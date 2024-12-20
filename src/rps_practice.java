@@ -10,6 +10,7 @@ public class rps_practice {
             String[] rps = {"r", "p", "s"};
             String computerMove = rps[new Random().nextInt(rps.length)];
 
+
             String playerMove;
 
             while(true) {
